@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
